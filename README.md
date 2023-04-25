@@ -111,7 +111,7 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running follow these simple example steps.
 
-Download the zip file or clone with this command git clone git@github.com:joel-kalema/Hello-Microverse.git(Make sure you have Git installed in your Computer or Install it by following these steps)
+Download the zip file or clone with this command git clone https://github.com/tusinahmed/Hello.git(Make sure you have Git installed in your Computer or Install it by following these steps)
 cd Hello-Microverse
 Open it with the live server
 
